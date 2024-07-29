@@ -1,5 +1,5 @@
 a=1
-while a<=30:
+while a<=4:
     
     
         
